@@ -1,0 +1,294 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:2:1-52:12
+MERGED from [:flutter] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/Flutter/build/intermediates/merged_manifest/debug/AndroidManifest.xml:3:1-26:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/eduardooliveira/.gradle/caches/transforms-3/dc46e6c0f559987e89628f2101c74743/transformed/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/eduardooliveira/.gradle/caches/transforms-3/21a8ae8a2e1f742229763e277a45ec56/transformed/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [:shared_preferences_android] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:permission_handler_android] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:sqflite] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_native_timezone] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/flutter_native_timezone/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_local_notifications] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:flutter_native_splash] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/a75f599d95af25f92b70b538d766832a/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/6b37b7c99531625ac1335974fb00b974/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/238e91916d5333f5752de96cfb1c3e59/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/3f8746ba26ed744e084c8a0d2097d245/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/eduardooliveira/.gradle/caches/transforms-3/fced4f00a3e5772d8121451a1e79e4dc/transformed/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/eduardooliveira/.gradle/caches/transforms-3/5d0f04351dda1f73bae7f58f4d79fbbf/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.1.0] /Users/eduardooliveira/.gradle/caches/transforms-3/be113724a21e392fbf0a7b74655ea945/transformed/media-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/eduardooliveira/.gradle/caches/transforms-3/f113cf81c3fea39213ab6ddd9d77311a/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/6b5a081d664fd4c8134acf5842d408b7/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/38723c5030f8e04ddde699339de52d2a/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/9bd8a07ffceb6a32e7dded13a7cf28c8/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/eduardooliveira/.gradle/caches/transforms-3/91b1cc75d3ec35c94ff349c3da157a32/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/2b7274841063e47882d92089dad01d13/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/fe5a5e77ab62c76b97ca0c693abc734e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/72b2f7378bb0d1675247c174af5652e2/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/4624506ebf53c1591a9e02a64d421f9a/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/52bc3df9ce302e84e5faa1570fa23795/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/b98869cda5f14d277396571ee76d5852/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/eduardooliveira/.gradle/caches/transforms-3/cbb481247fdb797d528ff2b1d5aad55e/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/eduardooliveira/.gradle/caches/transforms-3/482ecdc5fb232d553abc2be4faf10f98/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/1012f44fdcc83c023cc556263397bcdb/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/d5fba04a5a3ab2e328eaba985f22e6eb/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/a67b35971ac956332c7377384a85be6e/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/44f15e376bc89f3c1c536f2a2f4ab1cd/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/b9340cd49bdfdec6586efbb33c91476a/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/cd3e7907703827b3b6b89c7ae679cac4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/a41bfbb8bc8c88a4ffbed4994486f380/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/eduardooliveira/.gradle/caches/transforms-3/e57ab35f67d2e44792af18a8e64d679d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/1fcb22ff1a29cc842e1c70de592d5c85/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/d650251a6d5d613952f5217960309790/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/eduardooliveira/.gradle/caches/transforms-3/991241ab065183b06acdf0a4bbe53320/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/eduardooliveira/.gradle/caches/transforms-3/5bf5d60c7b3a3097c01fc9190b8011ba/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:3:11-51
+		INJECTED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:9:5-66
+MERGED from [:flutter] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/Flutter/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:flutter] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/Flutter/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.USE_EXACT_ALARM
+ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:12:22-71
+application
+ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:14:5-51:19
+MERGED from [:flutter] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/Flutter/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-24:19
+MERGED from [:flutter] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/Flutter/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-24:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/eduardooliveira/.gradle/caches/transforms-3/21a8ae8a2e1f742229763e277a45ec56/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/eduardooliveira/.gradle/caches/transforms-3/21a8ae8a2e1f742229763e277a45ec56/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/eduardooliveira/.gradle/caches/transforms-3/91b1cc75d3ec35c94ff349c3da157a32/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/eduardooliveira/.gradle/caches/transforms-3/91b1cc75d3ec35c94ff349c3da157a32/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] /Users/eduardooliveira/.gradle/caches/transforms-3/cbb481247fdb797d528ff2b1d5aad55e/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/eduardooliveira/.gradle/caches/transforms-3/cbb481247fdb797d528ff2b1d5aad55e/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/eduardooliveira/.gradle/caches/transforms-3/e57ab35f67d2e44792af18a8e64d679d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/eduardooliveira/.gradle/caches/transforms-3/e57ab35f67d2e44792af18a8e64d679d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	tools:node
+		ADDED from [:flutter] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/Flutter/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:18-36
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/eduardooliveira/.gradle/caches/transforms-3/cbb481247fdb797d528ff2b1d5aad55e/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:15:9-34
+	android:icon
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:16:9-43
+activity#br.com.eduprog.care_betes.host.MainActivity
+ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:17:9-36:20
+	android:launchMode
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:19:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:23:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:24:13-55
+	android:exported
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:21:13-36
+	android:configChanges
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:22:13-163
+	android:theme
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:20:13-47
+	android:name
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:18:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:29:13-31:40
+	android:value
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:31:17-37
+	android:name
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:30:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:34:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:39:9-41:33
+MERGED from [:flutter] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/Flutter/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:9-23:33
+MERGED from [:flutter] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/Flutter/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:9-23:33
+	android:value
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:41:13-30
+	android:name
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:40:13-44
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:42:9-131
+	android:exported
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:42:19-43
+	android:name
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:42:44-128
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:43:9-50:20
+	android:exported
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:43:19-43
+	android:name
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:43:44-132
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:44:13-49:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:45:17-78
+	android:name
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:45:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:46:17-83
+	android:name
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:46:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:47:17-82
+	android:name
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:47:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:48:17-81
+	android:name
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml:48:25-79
+uses-sdk
+INJECTED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/Flutter/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:flutter] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/Flutter/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/eduardooliveira/.gradle/caches/transforms-3/dc46e6c0f559987e89628f2101c74743/transformed/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/eduardooliveira/.gradle/caches/transforms-3/dc46e6c0f559987e89628f2101c74743/transformed/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/eduardooliveira/.gradle/caches/transforms-3/21a8ae8a2e1f742229763e277a45ec56/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/eduardooliveira/.gradle/caches/transforms-3/21a8ae8a2e1f742229763e277a45ec56/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_native_timezone] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/flutter_native_timezone/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_native_timezone] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/flutter_native_timezone/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_local_notifications] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_local_notifications] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_native_splash] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_native_splash] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/a75f599d95af25f92b70b538d766832a/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/a75f599d95af25f92b70b538d766832a/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/6b37b7c99531625ac1335974fb00b974/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/6b37b7c99531625ac1335974fb00b974/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/238e91916d5333f5752de96cfb1c3e59/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/238e91916d5333f5752de96cfb1c3e59/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/3f8746ba26ed744e084c8a0d2097d245/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/3f8746ba26ed744e084c8a0d2097d245/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/eduardooliveira/.gradle/caches/transforms-3/fced4f00a3e5772d8121451a1e79e4dc/transformed/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/eduardooliveira/.gradle/caches/transforms-3/fced4f00a3e5772d8121451a1e79e4dc/transformed/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/eduardooliveira/.gradle/caches/transforms-3/5d0f04351dda1f73bae7f58f4d79fbbf/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/eduardooliveira/.gradle/caches/transforms-3/5d0f04351dda1f73bae7f58f4d79fbbf/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/eduardooliveira/.gradle/caches/transforms-3/be113724a21e392fbf0a7b74655ea945/transformed/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/eduardooliveira/.gradle/caches/transforms-3/be113724a21e392fbf0a7b74655ea945/transformed/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/eduardooliveira/.gradle/caches/transforms-3/f113cf81c3fea39213ab6ddd9d77311a/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/eduardooliveira/.gradle/caches/transforms-3/f113cf81c3fea39213ab6ddd9d77311a/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/6b5a081d664fd4c8134acf5842d408b7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/6b5a081d664fd4c8134acf5842d408b7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/38723c5030f8e04ddde699339de52d2a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/38723c5030f8e04ddde699339de52d2a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/9bd8a07ffceb6a32e7dded13a7cf28c8/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/9bd8a07ffceb6a32e7dded13a7cf28c8/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/eduardooliveira/.gradle/caches/transforms-3/91b1cc75d3ec35c94ff349c3da157a32/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/eduardooliveira/.gradle/caches/transforms-3/91b1cc75d3ec35c94ff349c3da157a32/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/2b7274841063e47882d92089dad01d13/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/2b7274841063e47882d92089dad01d13/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/fe5a5e77ab62c76b97ca0c693abc734e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/fe5a5e77ab62c76b97ca0c693abc734e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/72b2f7378bb0d1675247c174af5652e2/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/72b2f7378bb0d1675247c174af5652e2/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/4624506ebf53c1591a9e02a64d421f9a/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/4624506ebf53c1591a9e02a64d421f9a/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/52bc3df9ce302e84e5faa1570fa23795/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/52bc3df9ce302e84e5faa1570fa23795/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/b98869cda5f14d277396571ee76d5852/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/b98869cda5f14d277396571ee76d5852/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/eduardooliveira/.gradle/caches/transforms-3/cbb481247fdb797d528ff2b1d5aad55e/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/eduardooliveira/.gradle/caches/transforms-3/cbb481247fdb797d528ff2b1d5aad55e/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/eduardooliveira/.gradle/caches/transforms-3/482ecdc5fb232d553abc2be4faf10f98/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/eduardooliveira/.gradle/caches/transforms-3/482ecdc5fb232d553abc2be4faf10f98/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/1012f44fdcc83c023cc556263397bcdb/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/1012f44fdcc83c023cc556263397bcdb/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/d5fba04a5a3ab2e328eaba985f22e6eb/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/d5fba04a5a3ab2e328eaba985f22e6eb/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/a67b35971ac956332c7377384a85be6e/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/a67b35971ac956332c7377384a85be6e/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/44f15e376bc89f3c1c536f2a2f4ab1cd/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/44f15e376bc89f3c1c536f2a2f4ab1cd/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/b9340cd49bdfdec6586efbb33c91476a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/b9340cd49bdfdec6586efbb33c91476a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/cd3e7907703827b3b6b89c7ae679cac4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/cd3e7907703827b3b6b89c7ae679cac4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/a41bfbb8bc8c88a4ffbed4994486f380/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/a41bfbb8bc8c88a4ffbed4994486f380/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/eduardooliveira/.gradle/caches/transforms-3/e57ab35f67d2e44792af18a8e64d679d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/eduardooliveira/.gradle/caches/transforms-3/e57ab35f67d2e44792af18a8e64d679d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/1fcb22ff1a29cc842e1c70de592d5c85/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/1fcb22ff1a29cc842e1c70de592d5c85/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/d650251a6d5d613952f5217960309790/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/eduardooliveira/.gradle/caches/transforms-3/d650251a6d5d613952f5217960309790/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/eduardooliveira/.gradle/caches/transforms-3/991241ab065183b06acdf0a4bbe53320/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/eduardooliveira/.gradle/caches/transforms-3/991241ab065183b06acdf0a4bbe53320/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/eduardooliveira/.gradle/caches/transforms-3/5bf5d60c7b3a3097c01fc9190b8011ba/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/eduardooliveira/.gradle/caches/transforms-3/5bf5d60c7b3a3097c01fc9190b8011ba/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eduardooliveira/Documents/Projects/CareBetes/android/app/src/main/AndroidManifest.xml
+meta-data#flutterProjectType
+ADDED from [:flutter] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/Flutter/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-16:38
+	android:value
+		ADDED from [:flutter] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/Flutter/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-35
+	android:name
+		ADDED from [:flutter] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/Flutter/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-46
+uses-permission#android.permission.VIBRATE
+ADDED from [:flutter_local_notifications] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-63
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [:flutter_local_notifications] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/eduardooliveira/Documents/Projects/CareBetes/.android/plugins_build_output/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/eduardooliveira/.gradle/caches/transforms-3/91b1cc75d3ec35c94ff349c3da157a32/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/eduardooliveira/.gradle/caches/transforms-3/91b1cc75d3ec35c94ff349c3da157a32/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/eduardooliveira/.gradle/caches/transforms-3/91b1cc75d3ec35c94ff349c3da157a32/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/eduardooliveira/.gradle/caches/transforms-3/91b1cc75d3ec35c94ff349c3da157a32/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/eduardooliveira/.gradle/caches/transforms-3/91b1cc75d3ec35c94ff349c3da157a32/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/eduardooliveira/.gradle/caches/transforms-3/91b1cc75d3ec35c94ff349c3da157a32/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51

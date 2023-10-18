@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "br.com.eduprog.care_betes.host.app-merged_res-22:/drawable_launch_background.xml.flat",
+        "source": "br.com.eduprog.care_betes.host.app-main-15:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "br.com.eduprog.care_betes.host.app-merged_res-22:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "br.com.eduprog.care_betes.host.app-main-15:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "br.com.eduprog.care_betes.host.app-merged_res-22:/drawable-v21_launch_background.xml.flat",
+        "source": "br.com.eduprog.care_betes.host.app-main-15:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "br.com.eduprog.care_betes.host.app-merged_res-22:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "br.com.eduprog.care_betes.host.app-main-15:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "br.com.eduprog.care_betes.host.app-merged_res-22:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "br.com.eduprog.care_betes.host.app-main-15:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "br.com.eduprog.care_betes.host.app-merged_res-22:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "br.com.eduprog.care_betes.host.app-main-15:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "br.com.eduprog.care_betes.host.app-merged_res-22:/drawable_background.png.flat",
+        "source": "br.com.eduprog.care_betes.host.app-main-15:/drawable/background.png"
+    },
+    {
+        "merged": "br.com.eduprog.care_betes.host.app-merged_res-22:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "br.com.eduprog.care_betes.host.app-main-15:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "br.com.eduprog.care_betes.host.app-merged_res-22:/drawable-v21_background.png.flat",
+        "source": "br.com.eduprog.care_betes.host.app-main-15:/drawable-v21/background.png"
+    }
+]

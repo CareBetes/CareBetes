@@ -1,0 +1,824 @@
+// **************************************************************************
+// StoreGenerator
+// **************************************************************************
+
+// ignore_for_file: non_constant_identifier_names, unnecessary_brace_in_string_interps, unnecessary_lambdas, prefer_expression_function_bodies, lines_longer_than_80_chars, avoid_as, avoid_annotating_with_dynamic, no_leading_underscores_for_local_identifiers
+
+mixin _$HomeController on HomeControllerBase, Store {
+  late final _$mondayAtom =
+      Atom(name: 'HomeControllerBase.monday', context: context);
+
+  @override
+  bool get monday {
+    _$mondayAtom.reportRead();
+    return super.monday;
+  }
+
+  @override
+  set monday(bool value) {
+    _$mondayAtom.reportWrite(value, super.monday, () {
+      super.monday = value;
+    });
+  }
+
+  late final _$tuesdayAtom =
+      Atom(name: 'HomeControllerBase.tuesday', context: context);
+
+  @override
+  bool get tuesday {
+    _$tuesdayAtom.reportRead();
+    return super.tuesday;
+  }
+
+  @override
+  set tuesday(bool value) {
+    _$tuesdayAtom.reportWrite(value, super.tuesday, () {
+      super.tuesday = value;
+    });
+  }
+
+  late final _$wednesdayAtom =
+      Atom(name: 'HomeControllerBase.wednesday', context: context);
+
+  @override
+  bool get wednesday {
+    _$wednesdayAtom.reportRead();
+    return super.wednesday;
+  }
+
+  @override
+  set wednesday(bool value) {
+    _$wednesdayAtom.reportWrite(value, super.wednesday, () {
+      super.wednesday = value;
+    });
+  }
+
+  late final _$thursdayAtom =
+      Atom(name: 'HomeControllerBase.thursday', context: context);
+
+  @override
+  bool get thursday {
+    _$thursdayAtom.reportRead();
+    return super.thursday;
+  }
+
+  @override
+  set thursday(bool value) {
+    _$thursdayAtom.reportWrite(value, super.thursday, () {
+      super.thursday = value;
+    });
+  }
+
+  late final _$fridayAtom =
+      Atom(name: 'HomeControllerBase.friday', context: context);
+
+  @override
+  bool get friday {
+    _$fridayAtom.reportRead();
+    return super.friday;
+  }
+
+  @override
+  set friday(bool value) {
+    _$fridayAtom.reportWrite(value, super.friday, () {
+      super.friday = value;
+    });
+  }
+
+  late final _$saturdayAtom =
+      Atom(name: 'HomeControllerBase.saturday', context: context);
+
+  @override
+  bool get saturday {
+    _$saturdayAtom.reportRead();
+    return super.saturday;
+  }
+
+  @override
+  set saturday(bool value) {
+    _$saturdayAtom.reportWrite(value, super.saturday, () {
+      super.saturday = value;
+    });
+  }
+
+  late final _$sundayAtom =
+      Atom(name: 'HomeControllerBase.sunday', context: context);
+
+  @override
+  bool get sunday {
+    _$sundayAtom.reportRead();
+    return super.sunday;
+  }
+
+  @override
+  set sunday(bool value) {
+    _$sundayAtom.reportWrite(value, super.sunday, () {
+      super.sunday = value;
+    });
+  }
+
+  late final _$titleMedicationControllerAtom = Atom(
+      name: 'HomeControllerBase.titleMedicationController', context: context);
+
+  @override
+  TextEditingController get titleMedicationController {
+    _$titleMedicationControllerAtom.reportRead();
+    return super.titleMedicationController;
+  }
+
+  @override
+  set titleMedicationController(TextEditingController value) {
+    _$titleMedicationControllerAtom
+        .reportWrite(value, super.titleMedicationController, () {
+      super.titleMedicationController = value;
+    });
+  }
+
+  late final _$timerMedicationControllerAtom = Atom(
+      name: 'HomeControllerBase.timerMedicationController', context: context);
+
+  @override
+  TextEditingController get timerMedicationController {
+    _$timerMedicationControllerAtom.reportRead();
+    return super.timerMedicationController;
+  }
+
+  @override
+  set timerMedicationController(TextEditingController value) {
+    _$timerMedicationControllerAtom
+        .reportWrite(value, super.timerMedicationController, () {
+      super.timerMedicationController = value;
+    });
+  }
+
+  late final _$repeatAtMedicalControllerAtom = Atom(
+      name: 'HomeControllerBase.repeatAtMedicalController', context: context);
+
+  @override
+  TextEditingController get repeatAtMedicalController {
+    _$repeatAtMedicalControllerAtom.reportRead();
+    return super.repeatAtMedicalController;
+  }
+
+  @override
+  set repeatAtMedicalController(TextEditingController value) {
+    _$repeatAtMedicalControllerAtom
+        .reportWrite(value, super.repeatAtMedicalController, () {
+      super.repeatAtMedicalController = value;
+    });
+  }
+
+  late final _$rememberMedicalControllerAtom = Atom(
+      name: 'HomeControllerBase.rememberMedicalController', context: context);
+
+  @override
+  TextEditingController get rememberMedicalController {
+    _$rememberMedicalControllerAtom.reportRead();
+    return super.rememberMedicalController;
+  }
+
+  @override
+  set rememberMedicalController(TextEditingController value) {
+    _$rememberMedicalControllerAtom
+        .reportWrite(value, super.rememberMedicalController, () {
+      super.rememberMedicalController = value;
+    });
+  }
+
+  late final _$titleMedicalAppointmentControllerAtom = Atom(
+      name: 'HomeControllerBase.titleMedicalAppointmentController',
+      context: context);
+
+  @override
+  TextEditingController get titleMedicalAppointmentController {
+    _$titleMedicalAppointmentControllerAtom.reportRead();
+    return super.titleMedicalAppointmentController;
+  }
+
+  @override
+  set titleMedicalAppointmentController(TextEditingController value) {
+    _$titleMedicalAppointmentControllerAtom
+        .reportWrite(value, super.titleMedicalAppointmentController, () {
+      super.titleMedicalAppointmentController = value;
+    });
+  }
+
+  late final _$dateMedicalAppointmentControllerAtom = Atom(
+      name: 'HomeControllerBase.dateMedicalAppointmentController',
+      context: context);
+
+  @override
+  TextEditingController get dateMedicalAppointmentController {
+    _$dateMedicalAppointmentControllerAtom.reportRead();
+    return super.dateMedicalAppointmentController;
+  }
+
+  @override
+  set dateMedicalAppointmentController(TextEditingController value) {
+    _$dateMedicalAppointmentControllerAtom
+        .reportWrite(value, super.dateMedicalAppointmentController, () {
+      super.dateMedicalAppointmentController = value;
+    });
+  }
+
+  late final _$dateMedicalAppointmentAtControllerAtom = Atom(
+      name: 'HomeControllerBase.dateMedicalAppointmentAtController',
+      context: context);
+
+  @override
+  TextEditingController get dateMedicalAppointmentAtController {
+    _$dateMedicalAppointmentAtControllerAtom.reportRead();
+    return super.dateMedicalAppointmentAtController;
+  }
+
+  @override
+  set dateMedicalAppointmentAtController(TextEditingController value) {
+    _$dateMedicalAppointmentAtControllerAtom
+        .reportWrite(value, super.dateMedicalAppointmentAtController, () {
+      super.dateMedicalAppointmentAtController = value;
+    });
+  }
+
+  late final _$rememberAtMedicalAppointmentControllerAtom = Atom(
+      name: 'HomeControllerBase.rememberAtMedicalAppointmentController',
+      context: context);
+
+  @override
+  TextEditingController get rememberAtMedicalAppointmentController {
+    _$rememberAtMedicalAppointmentControllerAtom.reportRead();
+    return super.rememberAtMedicalAppointmentController;
+  }
+
+  @override
+  set rememberAtMedicalAppointmentController(TextEditingController value) {
+    _$rememberAtMedicalAppointmentControllerAtom
+        .reportWrite(value, super.rememberAtMedicalAppointmentController, () {
+      super.rememberAtMedicalAppointmentController = value;
+    });
+  }
+
+  late final _$rememberMedicalAppointmentControllerAtom = Atom(
+      name: 'HomeControllerBase.rememberMedicalAppointmentController',
+      context: context);
+
+  @override
+  TextEditingController get rememberMedicalAppointmentController {
+    _$rememberMedicalAppointmentControllerAtom.reportRead();
+    return super.rememberMedicalAppointmentController;
+  }
+
+  @override
+  set rememberMedicalAppointmentController(TextEditingController value) {
+    _$rememberMedicalAppointmentControllerAtom
+        .reportWrite(value, super.rememberMedicalAppointmentController, () {
+      super.rememberMedicalAppointmentController = value;
+    });
+  }
+
+  late final _$userModelAtom =
+      Atom(name: 'HomeControllerBase.userModel', context: context);
+
+  @override
+  UserModel? get userModel {
+    _$userModelAtom.reportRead();
+    return super.userModel;
+  }
+
+  @override
+  set userModel(UserModel? value) {
+    _$userModelAtom.reportWrite(value, super.userModel, () {
+      super.userModel = value;
+    });
+  }
+
+  late final _$listMedicationAtom =
+      Atom(name: 'HomeControllerBase.listMedication', context: context);
+
+  @override
+  List<MedicationModel>? get listMedication {
+    _$listMedicationAtom.reportRead();
+    return super.listMedication;
+  }
+
+  @override
+  set listMedication(List<MedicationModel>? value) {
+    _$listMedicationAtom.reportWrite(value, super.listMedication, () {
+      super.listMedication = value;
+    });
+  }
+
+  late final _$listMedicationAppointmentAtom = Atom(
+      name: 'HomeControllerBase.listMedicationAppointment', context: context);
+
+  @override
+  List<MedicalAppointmentModel>? get listMedicationAppointment {
+    _$listMedicationAppointmentAtom.reportRead();
+    return super.listMedicationAppointment;
+  }
+
+  @override
+  set listMedicationAppointment(List<MedicalAppointmentModel>? value) {
+    _$listMedicationAppointmentAtom
+        .reportWrite(value, super.listMedicationAppointment, () {
+      super.listMedicationAppointment = value;
+    });
+  }
+
+  late final _$medicationDtoAtom =
+      Atom(name: 'HomeControllerBase.medicationDto', context: context);
+
+  @override
+  MedicationDto? get medicationDto {
+    _$medicationDtoAtom.reportRead();
+    return super.medicationDto;
+  }
+
+  @override
+  set medicationDto(MedicationDto? value) {
+    _$medicationDtoAtom.reportWrite(value, super.medicationDto, () {
+      super.medicationDto = value;
+    });
+  }
+
+  late final _$dateMedicalAppointmentAtom =
+      Atom(name: 'HomeControllerBase.dateMedicalAppointment', context: context);
+
+  @override
+  String? get dateMedicalAppointment {
+    _$dateMedicalAppointmentAtom.reportRead();
+    return super.dateMedicalAppointment;
+  }
+
+  @override
+  set dateMedicalAppointment(String? value) {
+    _$dateMedicalAppointmentAtom
+        .reportWrite(value, super.dateMedicalAppointment, () {
+      super.dateMedicalAppointment = value;
+    });
+  }
+
+  late final _$timerMedicalAppointmentAtom = Atom(
+      name: 'HomeControllerBase.timerMedicalAppointment', context: context);
+
+  @override
+  String? get timerMedicalAppointment {
+    _$timerMedicalAppointmentAtom.reportRead();
+    return super.timerMedicalAppointment;
+  }
+
+  @override
+  set timerMedicalAppointment(String? value) {
+    _$timerMedicalAppointmentAtom
+        .reportWrite(value, super.timerMedicalAppointment, () {
+      super.timerMedicalAppointment = value;
+    });
+  }
+
+  late final _$dateMedicalAppointmentAtAtom = Atom(
+      name: 'HomeControllerBase.dateMedicalAppointmentAt', context: context);
+
+  @override
+  String? get dateMedicalAppointmentAt {
+    _$dateMedicalAppointmentAtAtom.reportRead();
+    return super.dateMedicalAppointmentAt;
+  }
+
+  @override
+  set dateMedicalAppointmentAt(String? value) {
+    _$dateMedicalAppointmentAtAtom
+        .reportWrite(value, super.dateMedicalAppointmentAt, () {
+      super.dateMedicalAppointmentAt = value;
+    });
+  }
+
+  late final _$timerMedicalAppointmentAtAtom = Atom(
+      name: 'HomeControllerBase.timerMedicalAppointmentAt', context: context);
+
+  @override
+  String? get timerMedicalAppointmentAt {
+    _$timerMedicalAppointmentAtAtom.reportRead();
+    return super.timerMedicalAppointmentAt;
+  }
+
+  @override
+  set timerMedicalAppointmentAt(String? value) {
+    _$timerMedicalAppointmentAtAtom
+        .reportWrite(value, super.timerMedicalAppointmentAt, () {
+      super.timerMedicalAppointmentAt = value;
+    });
+  }
+
+  late final _$medicationAppointmentDtoAtom = Atom(
+      name: 'HomeControllerBase.medicationAppointmentDto', context: context);
+
+  @override
+  MedicalAppointmentDto? get medicationAppointmentDto {
+    _$medicationAppointmentDtoAtom.reportRead();
+    return super.medicationAppointmentDto;
+  }
+
+  @override
+  set medicationAppointmentDto(MedicalAppointmentDto? value) {
+    _$medicationAppointmentDtoAtom
+        .reportWrite(value, super.medicationAppointmentDto, () {
+      super.medicationAppointmentDto = value;
+    });
+  }
+
+  late final _$medicationModelAtom =
+      Atom(name: 'HomeControllerBase.medicationModel', context: context);
+
+  @override
+  MedicationModel? get medicationModel {
+    _$medicationModelAtom.reportRead();
+    return super.medicationModel;
+  }
+
+  @override
+  set medicationModel(MedicationModel? value) {
+    _$medicationModelAtom.reportWrite(value, super.medicationModel, () {
+      super.medicationModel = value;
+    });
+  }
+
+  late final _$medicationAppointmentModelAtom = Atom(
+      name: 'HomeControllerBase.medicationAppointmentModel', context: context);
+
+  @override
+  MedicalAppointmentModel? get medicationAppointmentModel {
+    _$medicationAppointmentModelAtom.reportRead();
+    return super.medicationAppointmentModel;
+  }
+
+  @override
+  set medicationAppointmentModel(MedicalAppointmentModel? value) {
+    _$medicationAppointmentModelAtom
+        .reportWrite(value, super.medicationAppointmentModel, () {
+      super.medicationAppointmentModel = value;
+    });
+  }
+
+  late final _$busyAtom =
+      Atom(name: 'HomeControllerBase.busy', context: context);
+
+  @override
+  bool get busy {
+    _$busyAtom.reportRead();
+    return super.busy;
+  }
+
+  @override
+  set busy(bool value) {
+    _$busyAtom.reportWrite(value, super.busy, () {
+      super.busy = value;
+    });
+  }
+
+  late final _$busyCreateMedicalAtom =
+      Atom(name: 'HomeControllerBase.busyCreateMedical', context: context);
+
+  @override
+  bool get busyCreateMedical {
+    _$busyCreateMedicalAtom.reportRead();
+    return super.busyCreateMedical;
+  }
+
+  @override
+  set busyCreateMedical(bool value) {
+    _$busyCreateMedicalAtom.reportWrite(value, super.busyCreateMedical, () {
+      super.busyCreateMedical = value;
+    });
+  }
+
+  late final _$busyGetMedicalAtom =
+      Atom(name: 'HomeControllerBase.busyGetMedical', context: context);
+
+  @override
+  bool get busyGetMedical {
+    _$busyGetMedicalAtom.reportRead();
+    return super.busyGetMedical;
+  }
+
+  @override
+  set busyGetMedical(bool value) {
+    _$busyGetMedicalAtom.reportWrite(value, super.busyGetMedical, () {
+      super.busyGetMedical = value;
+    });
+  }
+
+  late final _$listWeekAtom =
+      Atom(name: 'HomeControllerBase.listWeek', context: context);
+
+  @override
+  List<int> get listWeek {
+    _$listWeekAtom.reportRead();
+    return super.listWeek;
+  }
+
+  @override
+  set listWeek(List<int> value) {
+    _$listWeekAtom.reportWrite(value, super.listWeek, () {
+      super.listWeek = value;
+    });
+  }
+
+  late final _$keyMedicalAtom =
+      Atom(name: 'HomeControllerBase.keyMedical', context: context);
+
+  @override
+  GlobalKey<FormState> get keyMedical {
+    _$keyMedicalAtom.reportRead();
+    return super.keyMedical;
+  }
+
+  @override
+  set keyMedical(GlobalKey<FormState> value) {
+    _$keyMedicalAtom.reportWrite(value, super.keyMedical, () {
+      super.keyMedical = value;
+    });
+  }
+
+  late final _$keyMedicalAppointmentAtom =
+      Atom(name: 'HomeControllerBase.keyMedicalAppointment', context: context);
+
+  @override
+  GlobalKey<FormState> get keyMedicalAppointment {
+    _$keyMedicalAppointmentAtom.reportRead();
+    return super.keyMedicalAppointment;
+  }
+
+  @override
+  set keyMedicalAppointment(GlobalKey<FormState> value) {
+    _$keyMedicalAppointmentAtom.reportWrite(value, super.keyMedicalAppointment,
+        () {
+      super.keyMedicalAppointment = value;
+    });
+  }
+
+  late final _$initAsyncAction =
+      AsyncAction('HomeControllerBase.init', context: context);
+
+  @override
+  Future init() {
+    return _$initAsyncAction.run(() => super.init());
+  }
+
+  late final _$permissAsyncAction =
+      AsyncAction('HomeControllerBase.permiss', context: context);
+
+  @override
+  Future<dynamic> permiss() {
+    return _$permissAsyncAction.run(() => super.permiss());
+  }
+
+  late final _$createMedicationAsyncAction =
+      AsyncAction('HomeControllerBase.createMedication', context: context);
+
+  @override
+  Future<dynamic> createMedication() {
+    return _$createMedicationAsyncAction.run(() => super.createMedication());
+  }
+
+  late final _$getListMedicationAsyncAction =
+      AsyncAction('HomeControllerBase.getListMedication', context: context);
+
+  @override
+  Future<dynamic> getListMedication() {
+    return _$getListMedicationAsyncAction.run(() => super.getListMedication());
+  }
+
+  late final _$deleteMedicationAsyncAction =
+      AsyncAction('HomeControllerBase.deleteMedication', context: context);
+
+  @override
+  Future<dynamic> deleteMedication(int idMedication) {
+    return _$deleteMedicationAsyncAction
+        .run(() => super.deleteMedication(idMedication));
+  }
+
+  late final _$createMedicalAppointmentAsyncAction = AsyncAction(
+      'HomeControllerBase.createMedicalAppointment',
+      context: context);
+
+  @override
+  Future<dynamic> createMedicalAppointment() {
+    return _$createMedicalAppointmentAsyncAction
+        .run(() => super.createMedicalAppointment());
+  }
+
+  late final _$getListMedicalAppointmentAsyncAction = AsyncAction(
+      'HomeControllerBase.getListMedicalAppointment',
+      context: context);
+
+  @override
+  Future getListMedicalAppointment() {
+    return _$getListMedicalAppointmentAsyncAction
+        .run(() => super.getListMedicalAppointment());
+  }
+
+  late final _$deleteMedicalAppointmentAsyncAction = AsyncAction(
+      'HomeControllerBase.deleteMedicalAppointment',
+      context: context);
+
+  @override
+  Future<dynamic> deleteMedicalAppointment(int idMedication) {
+    return _$deleteMedicalAppointmentAsyncAction
+        .run(() => super.deleteMedicalAppointment(idMedication));
+  }
+
+  late final _$sheduleMedicationAsyncAction =
+      AsyncAction('HomeControllerBase.sheduleMedication', context: context);
+
+  @override
+  Future sheduleMedication(NotificationModel notification) {
+    return _$sheduleMedicationAsyncAction
+        .run(() => super.sheduleMedication(notification));
+  }
+
+  late final _$sheduleMedicalAppointmentAsyncAction = AsyncAction(
+      'HomeControllerBase.sheduleMedicalAppointment',
+      context: context);
+
+  @override
+  Future sheduleMedicalAppointment(NotificationModel notification) {
+    return _$sheduleMedicalAppointmentAsyncAction
+        .run(() => super.sheduleMedicalAppointment(notification));
+  }
+
+  late final _$verifyNotificationAsyncAction =
+      AsyncAction('HomeControllerBase.verifyNotification', context: context);
+
+  @override
+  Future<dynamic> verifyNotification() {
+    return _$verifyNotificationAsyncAction
+        .run(() => super.verifyNotification());
+  }
+
+  late final _$_listNotificationAsyncAction =
+      AsyncAction('HomeControllerBase._listNotification', context: context);
+
+  @override
+  Future<dynamic> _listNotification() {
+    return _$_listNotificationAsyncAction.run(() => super._listNotification());
+  }
+
+  late final _$logoutAsyncAction =
+      AsyncAction('HomeControllerBase.logout', context: context);
+
+  @override
+  Future<dynamic> logout() {
+    return _$logoutAsyncAction.run(() => super.logout());
+  }
+
+  late final _$HomeControllerBaseActionController =
+      ActionController(name: 'HomeControllerBase', context: context);
+
+  @override
+  dynamic getUser() {
+    final _$actionInfo = _$HomeControllerBaseActionController.startAction(
+        name: 'HomeControllerBase.getUser');
+    try {
+      return super.getUser();
+    } finally {
+      _$HomeControllerBaseActionController.endAction(_$actionInfo);
+    }
+  }
+
+  @override
+  dynamic setDate(String? value) {
+    final _$actionInfo = _$HomeControllerBaseActionController.startAction(
+        name: 'HomeControllerBase.setDate');
+    try {
+      return super.setDate(value);
+    } finally {
+      _$HomeControllerBaseActionController.endAction(_$actionInfo);
+    }
+  }
+
+  @override
+  dynamic setDateAt(String? value) {
+    final _$actionInfo = _$HomeControllerBaseActionController.startAction(
+        name: 'HomeControllerBase.setDateAt');
+    try {
+      return super.setDateAt(value);
+    } finally {
+      _$HomeControllerBaseActionController.endAction(_$actionInfo);
+    }
+  }
+
+  @override
+  dynamic setTimer(String? value) {
+    final _$actionInfo = _$HomeControllerBaseActionController.startAction(
+        name: 'HomeControllerBase.setTimer');
+    try {
+      return super.setTimer(value);
+    } finally {
+      _$HomeControllerBaseActionController.endAction(_$actionInfo);
+    }
+  }
+
+  @override
+  ({String date, String timer}) getDateTimeAppointment(String value) {
+    final _$actionInfo = _$HomeControllerBaseActionController.startAction(
+        name: 'HomeControllerBase.getDateTimeAppointment');
+    try {
+      return super.getDateTimeAppointment(value);
+    } finally {
+      _$HomeControllerBaseActionController.endAction(_$actionInfo);
+    }
+  }
+
+  @override
+  ({String date, String timer}) getDateTimeAppointmentAt(String value) {
+    final _$actionInfo = _$HomeControllerBaseActionController.startAction(
+        name: 'HomeControllerBase.getDateTimeAppointmentAt');
+    try {
+      return super.getDateTimeAppointmentAt(value);
+    } finally {
+      _$HomeControllerBaseActionController.endAction(_$actionInfo);
+    }
+  }
+
+  @override
+  dynamic repeat(Map<String, dynamic> map) {
+    final _$actionInfo = _$HomeControllerBaseActionController.startAction(
+        name: 'HomeControllerBase.repeat');
+    try {
+      return super.repeat(map);
+    } finally {
+      _$HomeControllerBaseActionController.endAction(_$actionInfo);
+    }
+  }
+
+  @override
+  dynamic back() {
+    final _$actionInfo = _$HomeControllerBaseActionController.startAction(
+        name: 'HomeControllerBase.back');
+    try {
+      return super.back();
+    } finally {
+      _$HomeControllerBaseActionController.endAction(_$actionInfo);
+    }
+  }
+
+  @override
+  List<String> daysOfWeekWord(MedicationModel medication) {
+    final _$actionInfo = _$HomeControllerBaseActionController.startAction(
+        name: 'HomeControllerBase.daysOfWeekWord');
+    try {
+      return super.daysOfWeekWord(medication);
+    } finally {
+      _$HomeControllerBaseActionController.endAction(_$actionInfo);
+    }
+  }
+
+  @override
+  bool validDate(MedicationModel medication) {
+    final _$actionInfo = _$HomeControllerBaseActionController.startAction(
+        name: 'HomeControllerBase.validDate');
+    try {
+      return super.validDate(medication);
+    } finally {
+      _$HomeControllerBaseActionController.endAction(_$actionInfo);
+    }
+  }
+
+  @override
+  String toString() {
+    return '''
+monday: ${monday},
+tuesday: ${tuesday},
+wednesday: ${wednesday},
+thursday: ${thursday},
+friday: ${friday},
+saturday: ${saturday},
+sunday: ${sunday},
+titleMedicationController: ${titleMedicationController},
+timerMedicationController: ${timerMedicationController},
+repeatAtMedicalController: ${repeatAtMedicalController},
+rememberMedicalController: ${rememberMedicalController},
+titleMedicalAppointmentController: ${titleMedicalAppointmentController},
+dateMedicalAppointmentController: ${dateMedicalAppointmentController},
+dateMedicalAppointmentAtController: ${dateMedicalAppointmentAtController},
+rememberAtMedicalAppointmentController: ${rememberAtMedicalAppointmentController},
+rememberMedicalAppointmentController: ${rememberMedicalAppointmentController},
+userModel: ${userModel},
+listMedication: ${listMedication},
+listMedicationAppointment: ${listMedicationAppointment},
+medicationDto: ${medicationDto},
+dateMedicalAppointment: ${dateMedicalAppointment},
+timerMedicalAppointment: ${timerMedicalAppointment},
+dateMedicalAppointmentAt: ${dateMedicalAppointmentAt},
+timerMedicalAppointmentAt: ${timerMedicalAppointmentAt},
+medicationAppointmentDto: ${medicationAppointmentDto},
+medicationModel: ${medicationModel},
+medicationAppointmentModel: ${medicationAppointmentModel},
+busy: ${busy},
+busyCreateMedical: ${busyCreateMedical},
+busyGetMedical: ${busyGetMedical},
+listWeek: ${listWeek},
+keyMedical: ${keyMedical},
+keyMedicalAppointment: ${keyMedicalAppointment}
+    ''';
+  }
+}

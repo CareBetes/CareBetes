@@ -1,0 +1,8 @@
+br.com.eduprog.care_betes-pngs-0 /Users/eduardooliveira/Documents/Projects/Flutter/carebetes/android/build/generated/res/pngs/release
+br.com.eduprog.care_betes-resValues-1 /Users/eduardooliveira/Documents/Projects/Flutter/carebetes/android/build/generated/res/resValues/release
+br.com.eduprog.care_betes-rs-2 /Users/eduardooliveira/Documents/Projects/Flutter/carebetes/android/build/generated/res/rs/release
+br.com.eduprog.care_betes-mergeReleaseResources-3 /Users/eduardooliveira/Documents/Projects/Flutter/carebetes/android/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+br.com.eduprog.care_betes-mergeReleaseResources-4 /Users/eduardooliveira/Documents/Projects/Flutter/carebetes/android/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+br.com.eduprog.care_betes-merged_res-5 /Users/eduardooliveira/Documents/Projects/Flutter/carebetes/android/build/intermediates/merged_res/release
+br.com.eduprog.care_betes-main-6 /Users/eduardooliveira/Documents/Projects/Flutter/carebetes/android/src/main/res
+br.com.eduprog.care_betes-release-7 /Users/eduardooliveira/Documents/Projects/Flutter/carebetes/android/src/release/res
